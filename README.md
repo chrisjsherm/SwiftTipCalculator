@@ -5,4 +5,4 @@ I wrote this tip calculator while following an [introductory tutorial to Swift](
 
 ## MIT License
 
-Copyright 2014 Chris Sherman under the [MIT License](LICENSE).
+Copyright 2014 Chris Sherman under the [MIT License](http://opensource.org/licenses/MIT).
