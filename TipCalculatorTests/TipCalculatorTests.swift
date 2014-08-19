@@ -2,8 +2,8 @@
 //  TipCalculatorTests.swift
 //  TipCalculatorTests
 //
-//  Created by Christopher Sherman on 8/8/14.
-//  Copyright (c) 2014 Christopher Sherman. All rights reserved.
+//  Created by Main Account on 7/7/14.
+//  Copyright (c) 2014 Razeware LLC. All rights reserved.
 //
 
 import UIKit
